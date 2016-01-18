@@ -1,2 +1,3 @@
-# notebooks
-http://mybinder.org/repo/mhlr/notebooks
+# noteboo
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mhlr/notebooks)
